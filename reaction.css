@@ -1,0 +1,30 @@
+ body {
+                
+                font-family: sans-serif;
+                background-color:#DAF7A6;
+                
+            }
+        
+            #shape {
+                
+                width: 200px;
+                height: 200px;
+                background-color: red;
+                display: none;
+                position: relative;
+                border:10px;
+                margin:10px;
+                border-color: cyan;
+                border-style:inset;
+                
+            }
+            
+            .bold {
+                
+                font-weight: bold;
+                
+            }
+           #divp{
+            height: 400px;
+            width: 1000px;
+           }
